@@ -1,0 +1,14 @@
+1. OpenAI announces GPT-5 release (150 votes)
+   🔗 https://openai.com/gpt-5
+
+2. New Linux Kernel 6.7 released with performance improvements (120 votes)
+   🔗 https://linuxnews.org/kernel-6.7
+
+3. Google’s AI breakthrough in natural language processing (95 votes)
+   🔗 https://ai.google.com/nlp-breakthrough
+
+4. Python 3.13 announced with major enhancements (85 votes)
+   🔗 https://python.org/python-3.13
+
+5. NASA discovers Earth-like exoplanet (80 votes)
+   🔗 https://nasa.gov/exoplanet
