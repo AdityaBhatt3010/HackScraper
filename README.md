@@ -57,9 +57,12 @@ cat output.txt
 ## File Structure
 ```
 HackScraper/
+│── .gitignore
+│── LICENSE
 │── HackScraper.py   # Main script
 │── README.md    # Project documentation
 │── output.txt   # (Optional) File where results are saved
+
 ```
 
 ---
